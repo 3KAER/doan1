@@ -1,0 +1,8 @@
+
+N_FRAME = 600
+N_DELAY = 10
+
+
+N_EPOCH = 64
+BATCH_SIZE = 128
+N_TIME = 10
